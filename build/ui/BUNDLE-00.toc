@@ -1,0 +1,1 @@
+([('ui', '/Users/uriah/Documents/OpenCV/dist/ui', 'EXECUTABLE')],)
