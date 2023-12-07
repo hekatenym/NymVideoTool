@@ -13,7 +13,7 @@ class homeFrame(wx.Frame):
         super().__init__(None,title="转码")
         self.inputPath = ""
         self.outputPath = ""
-        # self.inputPath = '/Users/uriah/Documents/Project/video covert/output111.mp4'
+        # self.inputPath = ''
         # self.outputPath = self.inputPath[:-4] + '_output.webm'
         
 
